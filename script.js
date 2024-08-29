@@ -15,3 +15,5 @@ second.style.transform = `rotate(${srotate}deg)`
 
 },1000);
 
+document.getElementbyId("show")= new Date(hour,minute,second);
+
